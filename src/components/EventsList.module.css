@@ -14,7 +14,7 @@
   color: inherit;
   display: flex;
   background-color: var(--color-gray-800);
-  border-radius: 10px;
+  border-radius: 4px;
   overflow: hidden;
 }
 
